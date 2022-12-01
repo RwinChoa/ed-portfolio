@@ -1,3 +1,3 @@
 # Git & Github - The Full Course
 
-A fact-paced course.......d
+A fact-paced course.......dddddazz
